@@ -1,0 +1,4 @@
+ipconfig
+nc -l 1478
+cat Wahid.png | nc 192.168.1.204
+nc -l 1478 > newCapture.png
